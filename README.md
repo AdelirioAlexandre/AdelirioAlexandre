@@ -2,7 +2,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adelirio_alexandre/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adelirio-neto-82b11b1b1/)
 
-![Adelirio Alexandre](https://github-readme-stats.vercel.app/api/top-langs/?username=AdelirioAlexandre&langs_count=8)
+![Adelirio Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=AdelirioAlexandre&show_icons=true&theme=dark)
 
 ### Tecnologia que eu uso
 <div style="Display: inline_block"><br/>
