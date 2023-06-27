@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href=https://www.instagram.com/adelirio_alexandre/ target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-   <a href=https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSHxTbkCRfVwvCSlKhQdDVwnqsgRWKjShSQDfzfMVQTnzbcDdNkktVKgDRrmdPLCVNXqMWJB target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+  <a href=adelirioalexandre03@gmail.com target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </p>
 
 ### Main skills:
