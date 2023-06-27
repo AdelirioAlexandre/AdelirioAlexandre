@@ -10,7 +10,7 @@
 ![Gráfico de atividade de Adelirio Alexandre](https://github-readme-activity-graph.vercel.app/graph?username=AdelirioAlexandre&theme=react-dark)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdelirioAlexandre&theme=react-dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdelirioAlexandre&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <p align="center">
