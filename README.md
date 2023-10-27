@@ -21,7 +21,8 @@
 </p>
 
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img src="https://github.com/AdelirioAlexandre/AdelirioAlexandre/assets/137753085/6e809541-c18e-42b1-b3d7-ce057e7f9456" width="25" height="25" alt="Java">
 
 ### Tools I use:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
